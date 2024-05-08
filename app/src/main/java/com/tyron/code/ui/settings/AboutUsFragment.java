@@ -45,7 +45,7 @@ public class AboutUsFragment extends MaterialAboutFragment {
                     getDrawable(R.drawable.ic_round_email_24),
                     getString(R.string.settings_about_us_title),
                     false,
-                    "deenbandhunetam488@gmail.com",
+                    "muhammadnadermahbubkhan@gmail.com",
                     ""))
             .addItem(
                 ConvenienceBuilder.createWebsiteActionItem(
@@ -53,7 +53,7 @@ public class AboutUsFragment extends MaterialAboutFragment {
                     getDrawable(R.drawable.ic_baseline_open_in_new_24),
                     getString(R.string.app_source_title),
                     false,
-                    Uri.parse("https://github.com/Deenu488/CodeAssist-Unofficial")))
+                    Uri.parse("https://github.com/nadermkhan/CodeAssist-Personal")))
             .addItem(
                 ConvenienceBuilder.createRateActionItem(
                     context,
