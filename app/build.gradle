@@ -17,7 +17,7 @@ android {
     defaultConfig {
         targetSdkVersion 33
 		minSdkVersion 26		
-		applicationId "org.codeassist.unofficial"
+		applicationId "nader.codeassist.personal"
 		versionCode 1
 		versionName "1.0.2"         	
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
